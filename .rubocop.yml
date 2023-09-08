@@ -1,8 +1,8 @@
 Style/StringLiterals:
-  Enabled: true
+  Enabled: false
 
 Style/StringLiteralsInInterpolation:
-  Enabled: true
+  Enabled: false
 
 Layout/LineLength:
   Max: 120
